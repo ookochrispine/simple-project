@@ -159,9 +159,6 @@ GitHub natively supports:
 
 For this reason, the repository includes:
 
-* A **GitHub-optimized `README.md`**
-* An optional **`Monitoring-Evaluation.knit.md`** for direct browser viewing
-
 ---
 
 ## 🧭 What To Do When Rendering Fails on GitHub
@@ -252,7 +249,7 @@ This allows live viewing without downloads.
 ### Clone from GitHub
 
 ```bash
-git clone https://github.com/your-username/Monitoring-Evaluation.git
+git clone https://github.com/ookochrispine/Monitoring-Evaluation.git
 ```
 
 ### Download ZIP
