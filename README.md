@@ -261,7 +261,8 @@ Use **Code → Download ZIP** from the repository page.
 ## 👤 Author
 
 **Chrispine Buxtone Ooko**
+
 Applied Statistician | Public Health & MEAL Practitioner
-Humanitarian Analytics • Disease Modeling • Accountability Systems
+Humanitarian Analytics • Accountability Systems
 
 
